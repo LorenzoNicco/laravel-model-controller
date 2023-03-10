@@ -1,0 +1,17 @@
+header {
+    padding: 3rem 0;
+    background-color: darkgoldenrod;
+}
+
+main {
+    background-color: rgb(24, 24, 24);
+
+    .my-card-style {
+        margin-top: 2rem;
+        border: 2px solid darkgoldenrod;
+
+        h5 {
+            text-decoration: underline;
+        }
+    }
+}
